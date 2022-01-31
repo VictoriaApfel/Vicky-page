@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Decoracion encabezado*/
+
+header{
+    background-color: #F6D8EA;
+    height: 100px;
+}
+/*Decoracion H1*/
+h1{
+    
+    color: white;
+    font-size: 25px;
+    text-align: start;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+   
+}
+/*Decoracion logo*/
+.logo{
+    width: 40px;
+    height: 40x;
+}
+
+/*Decoracion body*/
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #F6F3F5;
+    
+
+}
+
+/*Decoracion menu*/
+
+
+.letraColor{
+    text-align: center;
+    color: gray;
+    list-style: none;
+    text-decoration: none;
+    font-size: 125%;
+}
+
+.letraColor:hover{
+    color: pink;
+}
+
+/* Decoracion imagen pagina inicio */
+.imagenInicio{
+    display: block;
+    margin: auto;
+    margin-top: 70px;
+    width: 65%;
+
+}
+
+
+
+/*Decoracion carrusel*/
+/* .carousel{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+     */
+
+
+/*Decoracion H2 pagina inicio*/
+.tituloInicio{
+
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    margin-top: 60px;
+}
+
+/*Decoracion texto pagina inicio*/
+.textoInicio{
+    font-size: 20px;
+    text-align: center;
+}
+
+/*Decoracion lista beneficios pagina inicio*/
+
+.lista{
+    font-size: 22px;
+    line-height: 50px;
+    list-style-type:disc;
+    margin-top: 7%;
+    
+}
+
+
+/*Deoracion tarjeta de pagina de terapia floral*/ 
+
+.card{
+    background-color: #F6F3F5;
+    margin-top: 60px;
+    padding: 20px;
+    border: none;
+    
+}
+/*Deoracion titulo de pagina de terapia floral*/ 
+
+.tarjetaTitulo
+{
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+}
+
+/*Deoracion texto de pagina terapia floral*/ 
+.tarjetaTexto{
+    font-size: 20px;
+    text-align: start;
+
+}
+
+/*Deoracion imagen de pagina terapia floral*/ 
+.imagenTerapia{
+    width: 60% ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+
+/*Tabla contenedor pargina esencias*/
+.container{
+   font-size: 110%;
+   padding: 2px 5px;
+   margin-top: 10%;
+   color: lightslategray;
+   text-align:justify;
+   
+}
+/*Titulos tabla pagina esencias*/
+.tituloTabla{
+    font-weight:bolder;
+    border: grey 3px solid;
+    font-size: 120%;
+}
+/*Tablas pagina esencias*/
+.tabla{
+    border: grey 1px solid;
+}
+
+/*Formulario del boton enviar formulario*/
+.boton{
+    color: white;
+    background-color: pink;
+    margin-top: 10px;
+    border: pink;
+    font-size: 20px;
+    margin: 15px;
+    padding: 15px;
+}
+
+.formulario{
+    margin-top: 40px;
+    
+}
+
+/*Fondo footer*/
+.contactContainer{
+    background-color: pink;
+    width: 100%;
+    margin-top: 10%;
+}
+
+/*Titulo de footer*/
+.tituloContacto{
+    text-align: center;
+}
+
+/*Texto de footer*/
+.contentContacto{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+ 
+
+ 
+
+
+
+
